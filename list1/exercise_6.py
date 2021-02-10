@@ -12,5 +12,5 @@ for num in seq[1:]:
         result += 1
         
     aux = num
-    print("contador: {} numeral: {} resultado: {}".format(counter, num, result))
+    #print("contador: {} numeral: {} resultado: {}".format(counter, num, result))
 print(result)
