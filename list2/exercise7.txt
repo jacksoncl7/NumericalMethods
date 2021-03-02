@@ -1,0 +1,16 @@
+A base haxadecimal é uma base repsentada por 16 algarismo {1, ..., 10, A, ..., F}
+é fundamental para a computacao pois possui um poder de sintese de informacao
+muito grande podendo transmitir numa string um conjunto de informacao maio que
+valores representados em outras bases.
+
+Mais sua principal utilizacao veio pela padronizacao de enderecos de redes que
+para serem facilmente codificados pelos computadores e tambem terem facil carga
+informacional para seres humanos. 
+
+
+Analogamente a base hexa a base octal é um sistema de representacao de informacao
+composto apenas por oito algarismo (de 0 a 7), esse sistema foi amplamente adotado
+nos primordios de arquiteturas de computadores por permitir uma padronizao de mensagem
+e acionamento de de multiplos circuitos na mesma medida que quando convertido para a base
+oito o conteudo seria mais facilmente compreendifo que em binario, sendo o facilitador
+para o humano leitor

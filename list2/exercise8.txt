@@ -1,0 +1,14 @@
+Uma estrategia bem comum é utilizar a base binaria uma vez que podemos usufruir de uma 
+simetria informacional, que está atrelada a simetria matematica das bases
+
+todo e qualquer algarismo na base hexa sempre representara quatro bits, isto é,
+um conjunto de quatro algarismo binarios, pois é o numero minimo de algarismo
+binarios necessario para representar um algarismo hexa, da mesma forma vale uma
+analogia para a base octal que é necessario tres algarismo binarios para representar
+um algarismo octal, sendo assim podemos simplesmente aplicar a conversao para binario de
+um dado hexa e agrupar esse conteudo binario em grupos de 3 algarismo, ao convertes esses
+algarismo para base 10 conjunto a conjunto temos uma representacao octal do conjunto 
+de algarismo que outrora estavam representados em hexa.
+O mesmo vale para a a conversao de octal para hexa basta converter um conjunto de algarismo
+na base octal para a base binaria, agrupar esses algarismo binarios em conjunto de quatro
+algarismo e aplicar a conversao para a base hexadecimal.

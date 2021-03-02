@@ -1,0 +1,8 @@
+podemos agumentar que uma funcao é a outra dfeslocada no eixo x
+
+pois sabemos q f(x - n) é o deslocamento da funcao f(x) no eixo x,
+n unidades.
+
+porem podemos também provar a diferenca das funcoes atravez de uma prova,
+por absurdo por exemplo, supondo a igualdade das equacoes e concluindo
+que temos um absurdo na igualdade das equacoes.
