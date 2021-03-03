@@ -1,0 +1,17 @@
+Seria uma representacao utilizando apenas 3 algarismo {0, 1, 2}
+
+para a conversao da base 10 para a base 3 vale a mesma regra de sucetivas divisoes
+utlizando do resto e do resultado para compor a resposta, vide o casos:
+
+(3)b10 = (1)b3 		| onde bi indica a base i
+(11)b10 = (102)b3 
+
+A fim de exemplo: 11 / 3 resta 2, resulta 3
+									 3 / 3 resta 0, resulta 1
+									 logo temos 102 como sendo a representacao da base3 do numero
+									 11 na base 10
+
+para a conversao da base 3 para a base 10 vale a composicao de potencias de 3 de
+acordo com a ordem de grandeza (i.e. casa decimal do numeral).
+
+(102)b3 => 1x(3^2) + 0x(3^1) + 2x(3^0) = (11)b10
